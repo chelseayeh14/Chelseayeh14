@@ -8,8 +8,12 @@ Currently pursuing an **MS in Business Analytics** at **Emory's Goizueta Busines
 * **Skills**: Customer Analysis, Data Visualization, A/B Testing, ETL, Database Management, Machine Learning, AI Integration
 
 ### Education 🎓
-* **Master in Business Analytics**, Emory University, U.S.
+* **Master in Business Analytics (MSBA)**, Emory University, U.S.
 * **Bachelor in Risk Management and Insurance**, National Chengchi University, Taiwan
+
+### Professional Highlights ✨
+* **Analytics Engineer** @ Junyi Academy (2023 - 2025)
+* Sales Associate @ Rock Insurance Broker (2021 - 2023)
 
 ### Certifications 🪪
 * **DataCamp**: Associate_Data_Scientists
