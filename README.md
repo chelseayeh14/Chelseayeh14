@@ -17,10 +17,19 @@ Actively exploring opportunities in **data analytics / product analytics**.
 * **Analytics Engineer** @ Junyi Academy (2023 - 2025)
 * Sales Associate @ Rock Insurance Broker (2021 - 2023)
 
-### Certifications 🪪
-* **DataCamp**: Associate_Data_Scientists
-* **Google**: Google Analytics
-  
+### Projects 📂
+
+A curated collection of data projects showcasing my skills in analysis, visualization, and modeling.
+
+- Machine Learning
+  - [Cognitive Diagnosis Clustering](https://github.com/chelseayeh14/cognitive-diagnosis-clustering)
+  - [Dcard Like Count Prediction](https://github.com/chelseayeh14/Dcard-like-count-prediction)
+  - [Lung Cancer Prediction](https://github.com/chelseayeh14/lung-cancer-prediction)
+- Data Analysis & Statistical Validation
+  - Annan Junior High
+  - [2024 Junyi's Star Expedition Evaluation](https://github.com/chelseayeh14/junyi-star-expedition-evaluation-2024#)
+- Data Visualization
+  - [Hierarchical Dashboards Portfolio](https://github.com/chelseayeh14/hierarchical-dashboard-portfolio)
 ---
  
 Feel free to connect or share ideas—I’d love to hear from you! ⭐\
