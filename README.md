@@ -26,7 +26,6 @@ A curated collection of data projects showcasing my skills in analysis, visualiz
   - [Dcard Like Count Prediction](https://github.com/chelseayeh14/Dcard-like-count-prediction)
   - [Lung Cancer Prediction](https://github.com/chelseayeh14/lung-cancer-prediction)
 - Data Analysis & Statistical Validation
-  - Annan Junior High
   - [2024 Junyi's Star Expedition Evaluation](https://github.com/chelseayeh14/junyi-star-expedition-evaluation-2024#)
 - Data Visualization
   - [Hierarchical Dashboards Portfolio](https://github.com/chelseayeh14/hierarchical-dashboard-portfolio)
