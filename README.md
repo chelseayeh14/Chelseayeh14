@@ -2,6 +2,8 @@
 ### About Me 🔍
 Currently pursuing an **MS in Business Analytics** at **Emory's Goizueta Business School**, with 4 years of analytics experience in **EdTech** and **insurance**. Highly passionate about turning data into user impact and solving real-world problems!❤️
 
+Actively exploring opportunities in **data analytics / product analytics**.
+
 ### Tech Toolbox 🧰
 * **Languages**: SQL, Python, R
 * **Tools**: Tableau, Metabase, Google Analytics, AWS, Azure, GCP, dbt, Airflow, Git, Excel
